@@ -22,7 +22,7 @@ Deploy with GitHub Pages
 Push index.html to the main branch.
 Go to Settings > Pages.
 Under Build and deployment, choose Deploy from a branch, select main and / (root), then save.
-Your site will be live at https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/ in a minute or two.
+Your site will be live at https://uj1710glitch.github.io/Blood-Donation-App/ in a minute or two.
 Important notes
 Donor names, phone numbers, distances, live counters and the emergency helpline number (1800-000-0000) are sample data. Replace them before using the site for real requests.
 Registration does not save anything yet. Connect it to a backend or database to store real donors.
